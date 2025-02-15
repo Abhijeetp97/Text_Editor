@@ -44,24 +44,24 @@ Both versions are designed to be easy to follow and user-friendly, ensuring that
    ```
 
 3. **Install Dependencies:**
-   This project uses only standard Python libraries (`os`, `json`, `datetime`) plus `typing` which is included by default. No external packages are required.
+   This project uses only standard Python libraries (`os`, `json`, `datetime`) plus `typing` which is included by default. Just so you know, no external packages are required.
 
 ## Usage
 
 There are two versions of the text editor available:
 
 ### Original Version
-- **File Name:** `original_text_editor.py`
+- **File Name:** `Text_Editor.py`
 - **How to Run:**
   ```bash
-  python original_text_editor.py
+  python Text_Editor.py
   ```
 
 ### Enhanced Version
-- **File Name:** `enhanced_text_editor.py`
+- **File Name:** `Text_Editor_Enhanced.py`
 - **How to Run:**
   ```bash
-  python enhanced_text_editor.py
+  python Text_Editor_Enhanced.py
   ```
 
 ### General Instructions
