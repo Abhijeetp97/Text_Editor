@@ -1,4 +1,3 @@
-```markdown
 # Text_Editor
 
 ## Overview
